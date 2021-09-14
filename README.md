@@ -34,6 +34,11 @@ The slight increase in Average Reading Score and slight decrease in all other st
 ### Scores by school type
 *The top data frame is the original analysis and the bottom data frame are our modified results*
 ![ScoresBySchoolType](https://user-images.githubusercontent.com/88041368/133309071-a79ced28-2a7a-4811-ba5e-0a68480d776b.png)
-
-
-
+## Summary
+In summary, we can see that removing THS' 9th grade results impacted our analysis in the following ways:
+Average Math Score dropped by .07
+Average Reading Score increased by .05
+% Passing Math decreased by -.09
+% Passing Reading decreased by -.30
+% Overall Passing decreased by -.32
+  
